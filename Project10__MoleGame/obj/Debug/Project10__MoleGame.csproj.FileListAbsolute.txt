@@ -1,0 +1,12 @@
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\bin\Debug\Project10__MoleGame.exe.config
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\bin\Debug\Project10__MoleGame.exe
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\bin\Debug\Project10__MoleGame.pdb
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\bin\Debug\Guna.UI2.dll
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project10__MoleGame.csproj.AssemblyReference.cache
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project10__MoleGame.Form1.resources
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project10__MoleGame.Properties.Resources.resources
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project10__MoleGame.csproj.GenerateResource.cache
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project10__MoleGame.csproj.CoreCompileInputs.cache
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project1.61DBF98D.Up2Date
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project10__MoleGame.exe
+C:\Users\kheli\Desktop\Wal3a\Coding\ProgrammingAdvices\course_14 C# Level1\Projects\Project10__MoleGame\obj\Debug\Project10__MoleGame.pdb
